@@ -1,0 +1,73 @@
+Throughout this comprehensive course :https://www.udemy.com/course/the-complete-web-development-bootcamp comprehensive course, we cover a massive amount of tools and technologies, including:
+
+Front-End Web Development                 by Dr. Angela yu
+                                            -the-complete-web-development-bootcamp 
+HTML 5
+
+CSS 3
+
+Bootstrap 4
+
+Javascript ES6
+
+DOM Manipulation
+
+jQuery
+
+Bash Command Line
+
+Git, GitHub and Version Control
+
+Backend Web Development
+
+Node.js
+
+NPM
+
+Express.js
+
+EJS
+
+REST
+
+APIs
+
+Databases
+
+SQL
+
+MongoDB
+
+Mongoose
+
+Authentication
+
+Firebase
+
+React.js
+
+React Hooks
+
+Web Design
+
+Deployment with GitHub Pages, Heroku and MongoDB Atlas
+
+By the end of this course, you will be fluently programming and be ready to make any website you can dream of.
+
+You'll also build a portfolio of over 25+ websites that you can show off to any potential employer.
+
+Sign up today, and look forward to:
+
+Video Lectures
+
+Code Challenges and Exercises
+
+Fully Fledged Projects
+
+Quizzes
+
+Programming Resources and Cheatsheets
+
+Downloads
+
+Our best selling 12 Rules to Learn to Code eBook
